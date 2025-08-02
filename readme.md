@@ -30,7 +30,9 @@ CVV: Any 3 digits
 
 Cardholder Name: Any name
 
-⚠️ Note: On the Buy Now page, wait 4–5 seconds for Razorpay keys to fully load before clicking the button. The delay is due to server cold start on Render.
+⚠️ Note: On the Buy Now page, please wait 4–5 seconds for the Razorpay payment keys to fully load.
+If the button doesn't work immediately, try going back and re-clicking Subscribe.
+This delay occurs due to a cold start on the server hosted via Render.
 
 🛠️ Tech Stack
 Frontend: React.js, Redux Toolkit, Tailwind CSS
